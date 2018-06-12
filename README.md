@@ -5,7 +5,7 @@ This project was originally generated with [Angular CLI](https://github.com/angu
 ## Bootstrap
 ##### 1. Bootstrap 3.3.7 has been added using its CDN link in the index.html file
 
-## Preqruisites
+## Prerequisites
 1. **[Angular CLI Installed](https://github.com/angular/angular-cli#installation)**
 
 ## Setup and Run
